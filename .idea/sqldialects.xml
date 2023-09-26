@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/backups/full/full.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/commands/create_table.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/commands/insert.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/commands/insert1.sql" dialect="MySQL" />
+  </component>
+</project>
